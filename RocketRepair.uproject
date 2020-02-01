@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{870F6211-4D1E-560F-ADE0-5298E21A1017}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RocketRepair",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
